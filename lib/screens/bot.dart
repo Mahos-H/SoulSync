@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:flutter/material.dart';
 
-const apiKey = "AIzaSyDjEhPXuPuWjWkSiVSEvPpsd-Y0CFYKjCc";
+const apiKey = <PRIVATE>;
 const geminiEndpoint =
     "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=$apiKey";
 

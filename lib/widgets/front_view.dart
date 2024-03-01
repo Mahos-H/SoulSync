@@ -18,7 +18,7 @@ class FrontView extends StatelessWidget {
           color: const Color.fromARGB(255, 50, 29, 47),
           borderRadius: BorderRadius.circular(12.0),
           boxShadow: const [
-            BoxShadow(color: Colors.black26, blurRadius: 8.0),
+            BoxShadow(color: Colors.black, blurRadius: 8.0),
           ],
         ),
         child: Column(
